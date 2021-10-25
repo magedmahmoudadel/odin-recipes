@@ -9,7 +9,26 @@ h1{
     font-size:32px;
 }
 
+li{
+    margin:15px;
+    font-size:20px;
+}
+
+#links{
+    margin-left: 40%;
+}
 a{
     text-decoration: none;
+    font-size:20px;
+}
+img{
+    margin-left:30%;
+}
+
+h2{
+    text-decoration:underline;
+}
+
+p{
     font-size:20px;
 }
