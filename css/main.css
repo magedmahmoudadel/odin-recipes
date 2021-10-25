@@ -1,0 +1,16 @@
+body{
+    background-color:#ffffaa33;
+    font-family:sans-serif;
+}
+h1{
+    text-align: center;
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-size:32px;
+}
+
+a{
+    text-decoration: none;
+    font-size:20px;
+    margin-top: 20px;
+}
