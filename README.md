@@ -1,3 +1,3 @@
 # Odin Project Recipes Project
 
-Project to cement HTML foundations
+Simple HTML and CSS project that displays recipes.
